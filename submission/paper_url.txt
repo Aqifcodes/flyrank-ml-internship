@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://github.com/Aqifcodes/flyrank-ml-internship/blob/main/work/notebooks/capstone.ipynb
